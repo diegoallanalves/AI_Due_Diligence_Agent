@@ -1,0 +1,6 @@
+company,sector,revenue_m,revenue_growth_pct,customer_growth_pct,retention_pct,gross_margin_pct,ebitda_margin_pct,recurring_revenue_pct,data_quality,automation,cloud_maturity,ai_readiness,manual_ops_pct,annual_operating_cost_m,annual_support_cost_m,complaints,regulatory_risk,customer_concentration_risk,cybersecurity_risk,operational_risk
+AsterPay,Banking & Payments,125,18,16,92,61,14,83,79,42,74,67,64,38,5.1,8100,78,55,48,68
+Harbor Insurance,Insurance,170,9,7,89,54,18,76,82,45,69,63,59,52,6.8,10300,84,47,52,66
+Northstar Wealth,Wealth Management,98,15,12,95,72,28,91,91,63,81,76,38,24,2.2,2100,62,43,35,38
+Vertex Markets,Capital Markets,205,21,15,90,68,24,79,86,58,88,72,47,61,4.4,3400,88,39,63,57
+SignalData,Financial Data,74,27,24,94,78,31,88,94,71,86,84,29,17,1.4,1200,39,58,32,30
